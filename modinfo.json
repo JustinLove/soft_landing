@@ -1,0 +1,14 @@
+{
+  "author": "wondible",
+  "build": "86765",
+  "category": ["effects"],
+  "context": "client",
+  "date": "2015/09/06",
+  "description": "Less dust during commander landing, so you can see initial placements.",
+  "display_name": "Soft Landing",
+  "forum": null,
+  "identifier": "com.wondible.pa.soft_landing",
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+

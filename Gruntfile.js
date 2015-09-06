@@ -28,7 +28,7 @@ module.exports = function(grunt) {
               emit.alpha = 0.5
             } else if (emit.spec.baseTexture == '/pa/effects/textures/particles/softSmoke.papa' && emit.type == 'Cylinder_Z') {
               // large expanding dust
-              emit.alpha[0][1] = 0.1
+              emit.alpha[0][1] = 0.15
             } else if (emit.spec.shape == 'pointlight') {
               // bright blusih glow
               emit.alpha = 0.05

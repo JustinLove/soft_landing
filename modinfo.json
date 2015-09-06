@@ -6,7 +6,7 @@
   "date": "2015/09/06",
   "description": "Less dust during commander landing, so you can see initial placements.",
   "display_name": "Soft Landing",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-soft-landing.70341/",
   "icon": "http://wondible.com/pa/icons/soft_landing.png",
   "identifier": "com.wondible.pa.soft_landing",
   "signature": "not yet implemented",

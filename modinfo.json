@@ -7,8 +7,9 @@
   "description": "Less dust during commander landing, so you can see initial placements.",
   "display_name": "Soft Landing",
   "forum": null,
+  "icon": "http://wondible.com/pa/icons/soft_landing.png",
   "identifier": "com.wondible.pa.soft_landing",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
